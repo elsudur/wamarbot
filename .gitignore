@@ -1,0 +1,8 @@
+# Direktori
+node_modules/
+
+# File log
+*.log
+
+# File konfigurasi lokal
+.env
